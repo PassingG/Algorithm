@@ -1,0 +1,16 @@
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\Algorithm.exe
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\Algorithm.deps.json
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\Algorithm.runtimeconfig.json
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\Algorithm.runtimeconfig.dev.json
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\Algorithm.dll
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\ref\Algorithm.dll
+D:\Current Project\Algorithm\BaekJoon 12865\bin\Debug\net5.0\Algorithm.pdb
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.csproj.AssemblyReference.cache
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.AssemblyInfoInputs.cache
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.AssemblyInfo.cs
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.dll
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\ref\Algorithm.dll
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.pdb
+D:\Current Project\Algorithm\BaekJoon 12865\obj\Debug\net5.0\Algorithm.genruntimeconfig.cache

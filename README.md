@@ -2,6 +2,8 @@
 
  My algorithm study history.
 
+ Study everyday!
+
 
  ## Note Site
  

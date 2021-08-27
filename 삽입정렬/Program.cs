@@ -28,12 +28,17 @@ namespace 삽입정렬
                 {
                     if(target[j] < target[j-1])
                     {
-                        int tmp = target[j];
-                        target[j] = target[j-1];
-                        target[j-1] = tmp;
+                        Swap(j, j-1);
                     }
                 }
             }
+        }
+
+        public void Swap(int swapTargetIndexA, int swapTargetIndexB)
+        {
+            int tmp = target[swapTargetIndexA];
+            target[swapTargetIndexA] = target[swapTargetIndexB];
+            target[swapTargetIndexB] = tmp;
         }
 
         public void Log()
